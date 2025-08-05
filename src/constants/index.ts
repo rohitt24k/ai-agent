@@ -1,0 +1,2 @@
+export const PINECONE_EMBEDDINGS_INDEXNAME =
+  process.env.PINECONE_EMBEDDINGS_INDEXNAME ?? "learning-v4";
